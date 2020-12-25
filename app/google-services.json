@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "229153569450",
+    "project_id": "signuploginapp-b402c",
+    "storage_bucket": "signuploginapp-b402c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229153569450:android:0cdc780e2bf47bcb69aed3",
+        "android_client_info": {
+          "package_name": "somiah.jad.signup_login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229153569450-h8hhg7v82s27fbeigalsj2pkgalsflnm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "somiah.jad.signup_login_app",
+            "certificate_hash": "7de9a93aad001a96b48321edb95190724ccb6bf8"
+          }
+        },
+        {
+          "client_id": "229153569450-mma7icupmb0de88arhlnjfish6rnkkro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkJBUI5fyRKfk_Y3H0Fl4aOWDhn-qzVho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229153569450-mma7icupmb0de88arhlnjfish6rnkkro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
